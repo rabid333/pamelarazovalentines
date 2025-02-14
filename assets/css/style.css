@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&family=Schoolbell&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Schoolbell&display=swap');
 
 #card {
   height: 500px;
@@ -83,7 +83,7 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  font-family: "Sacramento", cursive;
+  font-family: "Schoolbell";
   background-color: #f1e3d3;
   overflow: hidden;
 }
