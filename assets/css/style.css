@@ -29,7 +29,7 @@
   #card p {
     padding-left: 0 !important; /* Eliminar el relleno a la izquierda en dispositivos móviles */
     padding-right: 0 !important; /* Eliminar el relleno a la derecha en dispositivos móviles */
-    font-size: 1.3em !important;
+    font-size: 0.5em !important;
   }
 
   .valentines-day {
