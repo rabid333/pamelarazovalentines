@@ -15,7 +15,7 @@
 @media only screen and (max-width: 600px) {
   #card {
     width: 90%; /* Reducir el ancho para dispositivos móviles */
-    height: 800px; /* Permitir que la altura se ajuste automáticamente */
+    height: auto; /* Permitir que la altura se ajuste automáticamente */
     margin: 2em auto; /* Ajustar el margen */
     position: static; /* Cambiar la posición a estática para que no sea fija */
     visibility: none; /* Hacer que el elemento sea visible */
@@ -29,7 +29,7 @@
   #card p {
     padding-left: 0 !important; /* Eliminar el relleno a la izquierda en dispositivos móviles */
     padding-right: 0 !important; /* Eliminar el relleno a la derecha en dispositivos móviles */
-    font-size: 1em !important;
+    font-size: 1.5em !important;
   }
 
   .valentines-day {
