@@ -191,8 +191,8 @@ body {
 
 .text {
   position: absolute;
-  font-family: arial;
-  letter-spacing: 3.5px;
+  font-family: Schoolbell;
+  letter-spacing: 3px;
   text-align: center;
   color: white;
   z-index: 2;
